@@ -7,3 +7,6 @@ This application is written for Windows.
 - C
 - [OpenCV](https://opencv.org/releases/)
 - [Microsoft Foundation Class](https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170) (MFC)
+
+## Dataset
+All of images are in <code>Iamges</code> folder.
