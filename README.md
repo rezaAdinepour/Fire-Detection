@@ -15,8 +15,8 @@ All of images are in <code>Iamges</code> folder.
 Create a dialogue based MFC application and add this files in your project.
 
 ## Results
-![image](Images/1.png)
+![image](Images/result_fire1.png)
 
-![image](Images/2.png)
+![image](Images/result_fire2.png)
 
-![image](Images/3.png)
+![image](Images/result_fire3.png)
