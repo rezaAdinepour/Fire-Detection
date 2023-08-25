@@ -12,4 +12,4 @@ This application is written for Windows.
 All of images are in <code>Iamges</code> folder.
 
 ## Installation
-Create a Dialogue based MFC application and add this files in your project.
+Create a dialogue based MFC application and add this files in your project.
