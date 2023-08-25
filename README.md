@@ -20,3 +20,6 @@ Create a dialogue based MFC application and add this files in your project.
 ![image](Images/result_fire2.png)
 
 ![image](Images/result_fire3.png)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
