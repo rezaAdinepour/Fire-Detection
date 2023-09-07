@@ -5,6 +5,8 @@ This application is written for Windows.
 
 ![GitHub watchers](https://img.shields.io/github/watchers/rezaAdinepour/Fire-Detection)
 ![GitHub top language](https://img.shields.io/github/languages/top/rezaadinepour/Fire-Detection)
+![GitHub](https://img.shields.io/github/license/rezaadinepour/Fire-Detection)
+
 
 
 ## What is MFC?
