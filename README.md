@@ -4,6 +4,8 @@ In this application, which is written in C++ and MFC API, can Detect Fire on ima
 This application is written for Windows.
 
 ![GitHub watchers](https://img.shields.io/github/watchers/rezaAdinepour/Fire-Detection)
+![GitHub top language](https://img.shields.io/github/languages/top/rezaadinepour/Fire-Detection)
+
 
 ## What is MFC?
 The Microsoft Foundation Class (MFC) Library provides an object-oriented wrapper over much of the Win32 and COM APIs. Although it can be used to create very simple desktop applications, it is most useful when you need to develop more complex user interfaces with multiple controls. You can use MFC to create applications with Office-style user interfaces.
