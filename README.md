@@ -1,7 +1,5 @@
-![GitHub watchers](https://img.shields.io/github/watchers/rezaAdinepour/Fire-Detection)
-
 # SDI Based Fire Detection Desktop Application Using MFC
-In this application, which is written in C++ and MFC API, can Detect Fire on image
+In this application, which is written in C++ and MFC API, can Detect Fire on image ![GitHub watchers](https://img.shields.io/github/watchers/rezaAdinepour/Fire-Detection)
 
 This application is written for Windows.
 
